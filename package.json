@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "workspaces": [
+        "library-of-babbel-core",
+        "library-of-babbel-web",
+        "library-of-babbel-desktop"
+    ],
+    "dependencies": {
+        "phaser": "^3.90.0"
+    }
+}
